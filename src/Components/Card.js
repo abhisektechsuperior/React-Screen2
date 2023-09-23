@@ -131,7 +131,7 @@ const Card = () => {
             <div className="row m-2">
               <div className="col-md-6 col-sm-8 p-0 mx-0">
                 <div className="locationManImage">
-                  <img className='img-edit' src="https://tds.indianeagle.com/wp-content/uploads/2023/02/Travel-guide-to-GOA.png" alt="" />
+                  <img className='https://tripindia.co.in//uploads/Mumbai-and-Goa-Tour-City-of-Bollywood-with-Glorious-Beaches3.jpg" alt="" />
                 </div>
                 <div className="row m-0">
                   <div className="col-4 p-0">

@@ -131,7 +131,7 @@ const Card = () => {
             <div className="row m-2">
               <div className="col-md-6 col-sm-8 p-0 mx-0">
                 <div className="locationManImage">
-                  <img className="https://tripindia.co.in//uploads/Mumbai-and-Goa-Tour-City-of-Bollywood-with-Glorious-Beaches3.jpg" alt="" />
+                  <img className="https://media.tacdn.com/media/attractions-splice-spp-674x446/09/9f/9d/e2.jpg" alt="" />
                 </div>
                 <div className="row m-0">
                   <div className="col-4 p-0">
